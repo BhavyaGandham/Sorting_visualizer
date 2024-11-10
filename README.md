@@ -3,12 +3,12 @@ This is a web application that visualizes classic sorting algorithms. It is buil
 Here is the website link.
 # Features
 The visualizer supports a variety of sorting algorithms
-Bubble Sort
-Selection Sort
-Insertion Sort
-Merge Sort
-Quick Sort
-Heap Sort
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
 The visualizer can be used to visualize the sorting process for any array of numbers.
 The visualizer can be customized to change the colors of the bars, the speed of the animation, and other settings.
 It also provides with the time and space complexities of the sorting algorithms.
